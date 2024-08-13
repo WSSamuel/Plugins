@@ -1,0 +1,7 @@
+/**
+ * Front Script
+ */
+
+(function ($) {
+
+})(jQuery);
