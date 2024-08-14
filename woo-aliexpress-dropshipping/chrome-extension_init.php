@@ -1,6 +1,0 @@
-<?php
-
-function ChromeExtensionInit($file)
-{
-
-}

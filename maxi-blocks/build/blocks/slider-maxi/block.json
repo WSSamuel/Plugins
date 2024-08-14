@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "maxi-blocks/slider-maxi",
+  "title": "Slider Maxi (beta)",
+  "category": "maxi-blocks",
+  "description": "Create slider with blocks, controls and animations",
+  "example": {
+    "attributes": {
+      "preview": true
+    }
+  },
+  "supports": {
+    "align": false,
+    "anchor": false,
+    "html": false
+  },
+  "editorScript": "maxi-blocks-block-editor"
+}

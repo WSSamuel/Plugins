@@ -1,0 +1,22 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "maxi-blocks/slide-maxi",
+  "title": "Slide Maxi",
+  "category": "maxi-blocks",
+  "description": "Sliding component of Slider Maxi",
+  "parent": [
+    "maxi-blocks/slider-maxi"
+  ],
+  "example": {
+    "attributes": {
+      "preview": true
+    }
+  },
+  "supports": {
+    "align": false,
+    "anchor": false,
+    "html": false
+  },
+  "editorScript": "maxi-blocks-block-editor"
+}

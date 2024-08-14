@@ -1,0 +1,22 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "maxi-blocks/pane-maxi",
+  "title": "Pane Maxi",
+  "category": "maxi-blocks",
+  "description": "Expand or collapse content inside of a panel",
+  "parent": [
+    "maxi-blocks/accordion-maxi"
+  ],
+  "example": {
+    "attributes": {
+      "preview": true
+    }
+  },
+  "supports": {
+    "align": false,
+    "anchor": false,
+    "html": false
+  },
+  "editorScript": "maxi-blocks-block-editor"
+}
