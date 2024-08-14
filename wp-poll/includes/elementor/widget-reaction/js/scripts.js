@@ -1,7 +1,0 @@
-/**
- * Front Script
- */
-
-(function ($) {
-
-})(jQuery);
