@@ -1,1 +1,0 @@
-<div id="bbpc-search-result" data-noresult="<?php esc_attr_e('No Results Found', 'bbpc-core'); ?>"> </div>
